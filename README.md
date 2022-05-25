@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Laster Gates
-- 👀 I’m interested in to learn programing
-- 🌱 I’m currently learning ADS
+## Olá, sou Marcos Davi 👋 (conhecido como Laster Gates)
+- 💻 Estou atuamente estudando Análise e Desenvolvimento de Sistema na Descomplica Faculdade Digital
+- 🎸Sou guitarrista e bodybuilder 💪
+- 🤘 Sou apaixonado por arte 🎭, como: filmes 🎟, séries🎞 e música 🎼
 
-<!---
-lastergates/lastergates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/lastergates">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lastergates&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lastergates&layout=compact&langs_count=7&theme=dark"/>
+</div>
