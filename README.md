@@ -1,4 +1,4 @@
-## Olá, sou Marcos Davi 👋 (conhecido como Laster Gates)
+## Olá, sou Marcos Davi 👋 
 - 💻 Estou atuamente estudando Análise e Desenvolvimento de Sistema na Descomplica Faculdade Digital
 - 🎸Sou guitarrista e bodybuilder 💪
 - 🤘 Sou apaixonado por arte 🎭, como: filmes 🎟, séries🎞 e música 🎼
