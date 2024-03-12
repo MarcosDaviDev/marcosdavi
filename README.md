@@ -19,7 +19,9 @@
       <img align="center" alt="Davi-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
       <img align="center" alt="Davi-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
       <img align="center" alt="Davi-JAVA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-       <img align="center" alt="Davi-Yarn" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
+      <img align="center" alt="Davi-Yarn" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
+      <img align="center" alt="Davi-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />      
+      <img align="center" alt="Davi-R" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />      
     </p>
   - Frameworks e Ferramentas:
     <p>
